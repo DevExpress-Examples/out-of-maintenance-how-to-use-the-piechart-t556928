@@ -16,14 +16,14 @@ Imports Windows.UI.Xaml.Navigation
 ' The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
 
 Namespace PieChart
-    ''' <summary>
-    ''' An empty page that can be used on its own or navigated to within a Frame.
-    ''' </summary>
-    Public NotInheritable Partial Class MainPage
-        Inherits Page
+	''' <summary>
+	''' An empty page that can be used on its own or navigated to within a Frame.
+	''' </summary>
+	Public NotInheritable Partial Class MainPage
+		Inherits Page
 
-        Public Sub New()
-            Me.InitializeComponent()
-        End Sub
-    End Class
+		Public Sub New()
+			Me.InitializeComponent()
+		End Sub
+	End Class
 End Namespace
